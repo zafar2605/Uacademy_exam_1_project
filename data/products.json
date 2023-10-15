@@ -1,0 +1,272 @@
+[
+    {
+        "id": "b9e54f3a-7e11-4b0a-94c3-b7e27e601044",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Olma",
+        "price": 5000
+    },
+    {
+        "id": "e92e065d-fb5c-407a-a0d5-1c38491b6624",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Coca Cola",
+        "price": 10000
+    },
+    {
+        "id": "72a332f7-08c4-4091-884b-6e9504f692b2",
+        "category_id": "b8301a79-a369-40b5-b518-3d68d2b43c38",
+        "name": "Lavash",
+        "price": 20000
+    },
+    {
+        "id": "a4af3ed3-dcc1-48cf-88ac-55de342369ce",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Sok",
+        "price": 11000
+    },
+    {
+        "id": "bc5c5521-2f0f-40ba-b319-3c914b8c8c63",
+        "category_id": "0cd904d0-2817-4d6a-8eb4-24f960b7d08b",
+        "name": "Sut",
+        "price": 8000
+    },
+    {
+        "id": "e7e358d3-d466-406c-aa71-d8941034e3d4",
+        "category_id": "d6b9e087-6c76-4355-a461-b8e6041d6c4a",
+        "name": "Baliq",
+        "price": 40000
+    },
+    {
+        "id": "f6db138a-a1a0-47b2-94ff-d9972ed8a10d",
+        "category_id": "0cd904d0-2817-4d6a-8eb4-24f960b7d08b",
+        "name": "Muzqaymoq Snikers",
+        "price": 14000
+    },
+    {
+        "id": "662a8646-fa67-4800-8e07-75bd8a7863a1",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Mol go'shti",
+        "price": 75000
+    },
+    {
+        "id": "2f3b67a6-f0c1-4104-aa78-232622027985",
+        "category_id": "4e757768-5655-4a2b-8edb-30f2a75ae034",
+        "name": "Malibu",
+        "price": 3000000
+    },
+    {
+        "id": "29093016-42e2-4abc-a85a-518b6fdf0181",
+        "category_id": "0cd904d0-2817-4d6a-8eb4-24f960b7d08b",
+        "name": "Tort",
+        "price": 95000
+    },
+    {
+        "id": "ed1481fd-a486-453d-affc-e640047ae7b1",
+        "category_id": "0cd904d0-2817-4d6a-8eb4-24f960b7d08b",
+        "name": "Rulet",
+        "price": 50000
+    },
+    {
+        "id": "fe3d2edb-f37a-4808-9fad-9fc8ab5fc770",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Piyoz",
+        "price": 4000
+    },
+    {
+        "id": "339926c4-1555-4596-80c9-61e37da30e44",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Pomidor",
+        "price": 5000
+    },
+    {
+        "id": "d10ab230-f162-4f02-905f-cda6af7cc9ab",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Kartoshka",
+        "price": 5500
+    },
+    {
+        "id": "02d6e466-4945-4d48-9c5a-8e1a4abebefd",
+        "category_id": "eee3d471-78c1-4aaf-8c62-4df8acbb5c1f",
+        "name": "Karam",
+        "price": 16000
+    },
+    {
+        "id": "14d02b9e-8175-4b3f-942f-818110d1ed25",
+        "category_id": "d6b9e087-6c76-4355-a461-b8e6041d6c4a",
+        "name": "Qalampir",
+        "price": 4000
+    },
+    {
+        "id": "91514079-9f66-46fd-a83e-c3cff22ce58e",
+        "category_id": "d6b9e087-6c76-4355-a461-b8e6041d6c4a",
+        "name": "Qalampir Pro Max",
+        "price": 14000
+    },
+    {
+        "id": "e6f22004-f4b0-4011-8804-c90a9971021f",
+        "category_id": "4e757768-5655-4a2b-8edb-30f2a75ae034",
+        "name": "Nissan GTR",
+        "price": 990000
+    },
+    {
+        "id": "83d34079-a4ea-4eda-bb2b-6cc6890dc254",
+        "category_id": "4e757768-5655-4a2b-8edb-30f2a75ae034",
+        "name": "Gentra",
+        "price": 90000
+    },
+    {
+        "id": "4efc2868-155b-4706-84f1-c25276b247c0",
+        "category_id": "4e757768-5655-4a2b-8edb-30f2a75ae034",
+        "name": "Nexia",
+        "price": 600000
+    },
+    {
+        "id": "8d494ff8-c39b-4d51-b29e-5e280d31bf9e",
+        "category_id": "4e757768-5655-4a2b-8edb-30f2a75ae034",
+        "name": "Spark",
+        "price": 300000
+    },
+    {
+        "id": "fc065e2b-586a-4532-aa43-2a601c23435c",
+        "category_id": "ab310a79-617d-41f0-90fd-b788f289ac29",
+        "name": "Krossovka",
+        "price": 30000
+    },
+    {
+        "id": "fe7e9c5f-4ba7-42e9-a9d6-02065a9976dd",
+        "category_id": "ab310a79-617d-41f0-90fd-b788f289ac29",
+        "name": "Etik",
+        "price": 30000
+    },
+    {
+        "id": "689fdd7a-7610-42c4-82cf-091bc5c56ce6",
+        "category_id": "ab310a79-617d-41f0-90fd-b788f289ac29",
+        "name": "Butsi",
+        "price": 60000
+    },
+    {
+        "id": "c88ba403-7477-431e-9f11-76d4e2066579",
+        "category_id": "67e1c02a-d3a2-46bc-adaf-4dca0905a0ee",
+        "name": "Jet",
+        "price": 5900
+    },
+    {
+        "id": "88c22afc-b515-4860-9336-9dbac978c240",
+        "category_id": "67e1c02a-d3a2-46bc-adaf-4dca0905a0ee",
+        "name": "Izzy",
+        "price": 9900
+    },
+    {
+        "id": "d34ac51d-9dcd-4491-a6bd-f029188e6874",
+        "category_id": "67e1c02a-d3a2-46bc-adaf-4dca0905a0ee",
+        "name": "Kicker",
+        "price": 5900
+    },
+    {
+        "id": "35d73611-fcb5-4eb6-9fee-2fc3c9b12fb7",
+        "category_id": "67e1c02a-d3a2-46bc-adaf-4dca0905a0ee",
+        "name": "Yoto",
+        "price": 700
+    },
+    {
+        "id": "071c3f08-423e-4066-a189-400dfb25994e",
+        "category_id": "81d0a710-4222-4757-95d7-d70cb88f1d5f",
+        "name": "Dazmol",
+        "price": 7000
+    },
+    {
+        "id": "23597c7b-a2d5-4a52-aaca-0a8f3a3468e5",
+        "category_id": "81d0a710-4222-4757-95d7-d70cb88f1d5f",
+        "name": "Mikro tolqinli pech",
+        "price": 7940
+    },
+    {
+        "id": "1aad538d-5036-4d94-8087-3bf40e06873e",
+        "category_id": "81d0a710-4222-4757-95d7-d70cb88f1d5f",
+        "name": "Blendr",
+        "price": 3400
+    },
+    {
+        "id": "9dea5c3f-34b3-4a2a-a5dc-9bc619330737",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Anor",
+        "price": 1500
+    },
+    {
+        "id": "8ae16d78-997c-4139-9384-7cf929030c3c",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Olcha",
+        "price": 1400
+    },
+    {
+        "id": "e07512fb-265c-453b-81f2-020af4c0163a",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Mandarin",
+        "price": 1900
+    },
+    {
+        "id": "25b9a3ce-5e76-4216-96c2-b06519ff6c63",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Ananas",
+        "price": 6000
+    },
+    {
+        "id": "9af5eb0d-43a2-43aa-91b9-27004fd4d8e7",
+        "category_id": "52675e16-f992-41ae-9f8d-ec2fd8c77e44",
+        "name": "Uzum",
+        "price": 20000
+    },
+    {
+        "id": "bfecc3ab-9065-4872-952e-f5e387ae4d18",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "RedBull",
+        "price": 35000
+    },
+    {
+        "id": "55040f2c-0127-416c-a994-e69eb8c3231c",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Pepsi",
+        "price": 14000
+    },
+    {
+        "id": "d32ee6a7-a1d3-498e-aee1-e685fc602f2a",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Fanta",
+        "price": 15000
+    },
+    {
+        "id": "56a331ba-4d1f-43c1-bcb5-e728dbde3503",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Mors",
+        "price": 5000
+    },
+    {
+        "id": "40627620-f949-4630-91ed-3db84cb8da26",
+        "category_id": "ff4cb227-92d7-4a7f-83fb-4d7e3e52d4aa",
+        "name": "Family",
+        "price": 5000
+    },
+    {
+        "id": "83c3cf72-b1f8-46c2-9498-d24923fd7396",
+        "category_id": "021e690f-a87d-4e74-b4e6-7bc2a0a5e7aa",
+        "name": "Ryugzak",
+        "price": 50000
+    },
+    {
+        "id": "7658471d-9c09-425c-9def-651cd08f787d",
+        "category_id": "021e690f-a87d-4e74-b4e6-7bc2a0a5e7aa",
+        "name": "Ayollar sumkasi",
+        "price": 50400
+    },
+    {
+        "id": "9ed7bd41-5a2d-4dbf-ba3a-4bcc8604ae51",
+        "category_id": "021e690f-a87d-4e74-b4e6-7bc2a0a5e7aa",
+        "name": "Bolalar sumkasi",
+        "price": 2000
+    },
+    {
+        "id": "0a2448db-0bd9-4aa3-831b-91cb3b979fc7",
+        "category_id": "e5131c03-7657-48f4-a9c0-9c5318b91ae9",
+        "name": "Ruchka",
+        "price": 1000
+    }
+]

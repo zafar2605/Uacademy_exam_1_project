@@ -1,0 +1,80 @@
+[
+    {
+        "id": "9c3fcef7-f628-4651-bb7c-fa41f05fdbb8",
+        "branch_id": "ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "product_id": "8ae16d78-997c-4139-9384-7cf929030c3c",
+        "quantity": 200
+    },
+    {
+        "id": "c67ce82c-bc2f-494f-b952-c0174a5d05b6",
+        "branch_id": "ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "product_id": "c88ba403-7477-431e-9f11-76d4e2066579",
+        "quantity": 210
+    },
+    {
+        "id": "d09c2cc1-9c30-485c-92fb-759edee7d877",
+        "branch_id": "ba9f3ac6-c442-4cd0-815a-b0b9b625b772",
+        "product_id": "662a8646-fa67-4800-8e07-75bd8a7863a1",
+        "quantity": 2120
+    },
+    {
+        "id": "fa9c8da5-3568-4582-b48c-86b77f70a478",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id": "339926c4-1555-4596-80c9-61e37da30e44",
+        "quantity": 29900
+    },
+    {
+        "id": "59672ead-4656-4c33-9fe1-e30b2bfa147e",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id": "14d02b9e-8175-4b3f-942f-818110d1ed25",
+        "quantity": 7900
+    },
+    {
+        "id": "fff0eef6-6d60-41ed-816b-1c0ef31a51a2",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id": "88c22afc-b515-4860-9336-9dbac978c240",
+        "quantity": 200
+    },
+    {
+        "id": "3266e53d-d898-487d-bf4c-5201784f0707",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id": "55040f2c-0127-416c-a994-e69eb8c3231c",
+        "quantity": 20023
+    },
+    {
+        "id": "5e4574b4-731e-4681-85d0-c0608f4b9ad4",
+        "branch_id": "f7497e5f-ce02-452b-8ea4-d5aab1c69a1c",
+        "product_id": "40627620-f949-4630-91ed-3db84cb8da26",
+        "quantity": 223
+    },
+    {
+        "id": "0fa30a87-7577-42e2-9015-6e3d909c81ed",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id": "9af5eb0d-43a2-43aa-91b9-27004fd4d8e7",
+        "quantity": 2293
+    },
+    {
+        "id": "5228aa93-a91e-404e-a381-ef43cff9c10d",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id": "25b9a3ce-5e76-4216-96c2-b06519ff6c63",
+        "quantity": 0
+    },
+    {
+        "id": "cdb8ba79-d331-4643-a4ce-068fd2881d8a",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id": "e07512fb-265c-453b-81f2-020af4c0163a",
+        "quantity": 4
+    },
+    {
+        "id": "3eeb4e89-6a3a-4fb7-a9ae-812371d2d37c",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id": "2f3b67a6-f0c1-4104-aa78-232622027985",
+        "quantity": 444
+    },
+    {
+        "id": "1ab7751b-0d86-4b4a-b316-f71cec70d1ff",
+        "branch_id": "c64f8f47-93e2-4f34-b6b0-279146231d8e",
+        "product_id": "e6f22004-f4b0-4011-8804-c90a9971021f",
+        "quantity": 9
+    }
+]
